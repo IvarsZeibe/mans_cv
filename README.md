@@ -15,6 +15,10 @@ Gads|Sasniegums|Papildus
 2014.|1. vieta Latvijā galvā rēķināšanas konkursā "Miksike" 1-3 klašu grupā |[Wikipēdija](https://lv.wikipedia.org/wiki/R%C4%93%C4%B7ini_galv%C4%81)
 
 ## Hobiji
-
+* Mazu spēļu un uzdevumu programmēšana
+* Kalnu slēpošana
+* Slēpošana
+* Datorpsēļu spelēšana
+* Teniss
 
 ## Pieredze programmēšanā
